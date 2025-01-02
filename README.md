@@ -85,9 +85,7 @@ API Endpoints
 -   **Method:** `POST`
 -   **Body:**
 
-    json
-
-    Copy code
+    
 
     `{
       "username": "newuser",
@@ -103,9 +101,7 @@ API Endpoints
 -   **Method:** `POST`
 -   **Body:**
 
-    json
-
-    Copy code
+    
 
     `{
       "username": "newuser",
@@ -123,9 +119,7 @@ API Endpoints
 -   **Method:** `PUT/PATCH`
 -   **Body:**
 
-    json
-
-    Copy code
+    
 
     `{
       "first_name": "Jane",
@@ -150,9 +144,7 @@ API Endpoints
 -   **Method:** `POST`
 -   **Body:**
 
-    json
-
-    Copy code
+    
 
     `{
       "name": "New Project",
@@ -171,9 +163,7 @@ API Endpoints
 -   **Method:** `PUT/PATCH`
 -   **Body:**
 
-    json
-
-    Copy code
+    
 
     `{
       "name": "Updated Project Name",
@@ -198,9 +188,7 @@ API Endpoints
 -   **Method:** `POST`
 -   **Body:**
 
-    json
-
-    Copy code
+    
 
     `{
       "title": "New Task",
@@ -222,9 +210,7 @@ API Endpoints
 -   **Method:** `PUT/PATCH`
 -   **Body:**
 
-    json
-
-    Copy code
+    
 
     `{
       "status": "In Progress",
@@ -249,9 +235,7 @@ API Endpoints
 -   **Method:** `POST`
 -   **Body:**
 
-    json
-
-    Copy code
+    
 
     `{
       "text": "This is a comment",
@@ -269,9 +253,7 @@ API Endpoints
 -   **Method:** `PUT/PATCH`
 -   **Body:**
 
-    json
-
-    Copy code
+    
 
     `{
       "text": "Updated comment text"
@@ -281,3 +263,5 @@ API Endpoints
 
 -   **URL:** `/api/comments/{id}/`
 -   **Method:** `DELETE`
+
+---
