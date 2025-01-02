@@ -2,6 +2,10 @@
 
 This project is a simple API built with Django that allows management of users, projects, tasks, and comments. It supports CRUD operations for these entities and is intended to be consumed by front-end applications or other services.
 
+Here is a detailed database schema,
+![tyechforing schema](https://github.com/user-attachments/assets/a8b4deee-1e98-415d-9d89-a5714f09a246)
+
+
 ## Features
 
 - **Users**
@@ -265,3 +269,4 @@ API Endpoints
 -   **Method:** `DELETE`
 
 ---
+Please find the detailed Swagger API documentation here, http://127.0.0.1:8000/swagger/
